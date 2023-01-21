@@ -139,6 +139,7 @@ Push and commit files to the GitHub repository.
 ## Output:
 ![COVERPAGE](images/page.png)
 
+
 ## HTML Validation:
 ![VALID](images/valid_des.png)
 
